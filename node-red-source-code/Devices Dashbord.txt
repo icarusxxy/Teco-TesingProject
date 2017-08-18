@@ -1,0 +1,26 @@
+
+Overall
+http://teco-iaq.mybluemix.net/freeboard/#start-66415 //Craig
+http://teco-iaq.mybluemix.net/freeboard/#start-28764 //all
+
+
+Device 1 Air Conditioner
+http://teco-iaq.mybluemix.net/freeboard/#start-60896 //all
+
+Device 2 Fan
+http://teco-iaq.mybluemix.net/freeboard/#start-86826 //all (dead)
+http://teco-iaq.mybluemix.net/freeboard/#start-92387 //all
+
+Device 3 Air Quality Detector
+http://teco-iaq.mybluemix.net/freeboard/#start- //ALL
+
+http://teco-iaq.mybluemix.net/freeboard/#start-96832 //HCHO 0~0.08 / 0.08~0.1 / 0.1~ (ppm/1hr)
+http://teco-iaq.mybluemix.net/freeboard/#start-52325 //TVOC 0~0.5 / 0.5~0.56 / 0.56~ (ppm/1hr)
+http://teco-iaq.mybluemix.net/freeboard/#start-53215 //PM10 0~60 / 60~75 / 75 ([μg/m3]/24hr)
+http://teco-iaq.mybluemix.net/freeboard/#start-71578 //CO2 600~800 / 800~1000 / 1000~ (ppm/8hr)
+http://teco-iaq.mybluemix.net/freeboard/#start-72179 //temp 0~34 / 34~37 / 37~
+
+Device 4 Infrared Array Sensor
+http://teco-iaq.mybluemix.net/freeboard/#start-11222 //all
+
+Device 5 Photocatalyst
